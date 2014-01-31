@@ -1,0 +1,8 @@
+gifs\\StandRight.gif
+gifs\\StandRight.gif
+gifs\\StandRight.gif
+gifs\\StandLeft.gif
+gifs\\RunRight.gif
+gifs\\RunLeft.gif
+gifs\\StandRight.gif
+gifs\\luffyspecialattack.gif
